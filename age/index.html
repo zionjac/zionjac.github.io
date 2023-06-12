@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>年齡探測器</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.css" rel="stylesheet">
+  <style>
+    /* justify-content：x軸   align-items：y軸    flex-direction：排列方式*/
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100vw;       
+      height: 100vh;      
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      font-family: "微軟正黑體", "黑體-繁", sans-serif;
+      font-size: 40px;
+      /* background :darkgrey;*/
+      background:linear-gradient(to left, darkgrey, grey);
+      /*overflow: hidden;       不能捲動視窗*/
+    }
+
+    #te{
+      font-family: "微軟正黑體";
+      font-weight:bold;
+      font-size: 8vmin;
+      color: rgb(255, 255, 255);
+      text-shadow: -1px -1px 0 rgb(0, 0, 0);
+      margin: 0;
+      padding: 20px;
+    }
+
+    #inputVideo {
+      max-height: 80%;  
+      max-width: 80%;
+    }
+    
+    canvas {
+      position: absolute;
+    }
+
+    #inputtext{
+      font-size: 4vmin;
+      height: 5vh;
+      max-width: 90vw;
+      margin-top: 2vh;
+      margin-bottom: 15vh;
+    }
+
+    #inputtextUser{
+      font-size: 4vmin;
+      height: 5vh;
+      max-width: 90vw;
+      margin-top: 2vh;
+    }
+
+    #mask{
+      width: 100vw;
+      height: 100vh;
+      background-color: #000;
+      background: rgba(0, 0, 0, 0.9);
+      position:absolute;
+      display:none;
+    }
+
+    #loadImg{
+      max-height: 50%;  
+      max-width: 50%;
+      position:absolute;
+      display:none;
+    }
+
+    .ui-textfield {
+    text-align: center;
+    }
+  </style>
+
+</head>
+
+<script defer  src="face-api.min.js"></script>
+<script defer  src="script.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.js"></script>
+<link rel="stylesheet" href="jquery-ui.min.css" />
+<script src="jquery-ui.min.js"></script>
+
+<body>
+  <!--   -->
+  <p id="te">年齡探測器</p>
+  <div id="mask"></div>
+  <img  id="loadImg"src="loadModel.gif">
+  <video id="inputVideo"  autoplay muted></video>
+  <input id="inputtextUser" type="text" name="欄位名稱" placeholder="請輸入 AIO 使用者名稱">
+  <input id="inputtext" type="text" name="欄位名稱" placeholder="請輸入金鑰, 輸入完畢後會自動傳送資料">
+  
+</body>
+
+
+
+</html>

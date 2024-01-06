@@ -1,0 +1,63 @@
+# 我的第一個帥帥筆記
+> 第一 :video_game:
+> 第二 :arrow_left: 
+> 第三 :penguin: 
+> 第四 🐧🐧🐧
+> Type on the left and see rendered result on the right.:arrow_right:
+
+
+---
+
+## :pencil: AIGC小聚地點規劃
+### 🐧🐧🐧: 地點
+* - [x] *新竹內灣-最初咖啡*[==推薦==]
+- [ ] **台北101**
+- [x] ==新竹內灣-最初咖啡==
+- [ ] ***新北深坑臭豆腐***
+- [ ] ~~台中逢甲夜市~~
+- [ ] H~2~O阿昌哥小吃
+- [ ] 台南2^10^(1024)柳丁園
+
+<img src="https://hackmd.io/_uploads/ryrV2ULu6.jpg)" width="400" height="300">
+
+:::info
+- :bulb:注意事項
+-- 1.地點兩個為上限
+-- 2.至少選一個
+:::
+| 時間 | 上午 | 中午 | 下午 | 備註    |
+| ---- | ---- | ---- | ---- | --- |
+| 週一 | 🐧   |      |      |     |
+| 週二 |      | 🐧   |      |     |
+| 週三 |      |      | 🐧   |     |
+| 週四 | 🐧   |      |      |     |
+| 週五 |      | 🐧   |      |     |
+| 週六 |      | 🐧   |      |     |
+| 週日 | 🐧   | 🐧  | 🐧   | :bulb:|
+
+### :house_buildings: :house_buildings: :house_buildings:  : 飯店 
+
+
+| 序號 | 飯店名稱   | 官網    |
+| ---- | ---------- | ------- |
+| 台北 | 圓山大飯店 | [:house:][圓山大飯店1] |
+| 新竹 | 強哥大商旅 | [:house:][強哥大商旅 2] |
+| 台南 | 阿昌102大飯店 | [:house:][阿昌102大飯店 3] |
+| 花連 | 金門王大會館  | [:house:][金門王大會館 4] |
+
+[圓山大飯店1]: https://www.grand-hotel.org/TW/index.aspx
+[強哥大商旅 2]: https://hotel.darlon.biz/
+[阿昌102大飯店 3]: https://www.kindness-hotel.com.tw/location-tainan-minsheng
+[金門王大會館 4]: https://www.facebook.com/SPTaroko/?locale=zh_TW
+
+
+😀😁🤣🙂🤩😇
+[T8小教室#6 程式新手學習Python的五大理由](https://youtu.be/ZhchcGLttko?si=0buPxMFt6Rj3Me0B)
+{%youtube ZhchcGLttko %}
+## 茶米老師講義
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzo0hDZZJiJ675A5rEJQh1O9D3e_UxreVVTCtnRG0yz2o0DXI7aoz7ISi-iReZToZsg93WDaxaHDWl/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## 3D模型
+<div class='modelo-wrapper'> <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <iframe src=" https://app.modaiyun.com/embedded/1743520321917898752?viewport=false&autoplay=false&autorotate=false&hideTools=false&showBIM=false&showBBoxSize=false&showKooRender=false&showSettings=false" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> </div> </div> </div>
+
+

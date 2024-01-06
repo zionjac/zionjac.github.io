@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<META CHARSET="UTF-8">
-<title>Jac Home</title>
-  <style>
-    h2 {
-      color: blue;
-    }
-  </style>
-</haed>
-<body>
-<h2>I am Jac White <span style="color: red;">強哥</span></h2>
 # 我的第一個帥帥筆記
 > 第一 :video_game:
 > 第二 :arrow_left: 
@@ -53,16 +40,14 @@
 
 | 序號 | 飯店名稱   | 官網    |
 | ---- | ---------- | ------- |
-| 台北 | 圓山大飯店 | [:house:][圓山大飯店1] |
+| 台北 | 圓山大飯店 | [:house:][1] |
 | 新竹 | 強哥大商旅 | [:house:][強哥大商旅 2] |
 | 台南 | 阿昌102大飯店 | [:house:][阿昌102大飯店 3] |
 | 花連 | 金門王大會館  | [:house:][金門王大會館 4] |
-
-[圓山大飯店1]: https://www.grand-hotel.org/TW/index.aspx
+[1]: https://www.grand-hotel.org/TW/index.aspx
 [強哥大商旅 2]: https://hotel.darlon.biz/
 [阿昌102大飯店 3]: https://www.kindness-hotel.com.tw/location-tainan-minsheng
 [金門王大會館 4]: https://www.facebook.com/SPTaroko/?locale=zh_TW
-
 
 😀😁🤣🙂🤩😇
 [T8小教室#6 程式新手學習Python的五大理由](https://youtu.be/ZhchcGLttko?si=0buPxMFt6Rj3Me0B)
@@ -73,5 +58,4 @@
 ## 3D模型
 <div class='modelo-wrapper'> <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <iframe src=" https://app.modaiyun.com/embedded/1743520321917898752?viewport=false&autoplay=false&autorotate=false&hideTools=false&showBIM=false&showBBoxSize=false&showKooRender=false&showSettings=false" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> </div> </div> </div>
 
-</body>
-</html>
+
